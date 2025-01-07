@@ -1,4 +1,4 @@
-package xyz.sheetsdsl.examples
+package com.github.nickklock.sheetsdsl.examples
 
 import com.google.api.services.sheets.v4.model.Spreadsheet
 

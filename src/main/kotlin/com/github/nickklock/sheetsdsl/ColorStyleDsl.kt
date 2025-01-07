@@ -1,4 +1,4 @@
-package xyz.sheetsdsl
+package com.github.nickklock.sheetsdsl
 
 import com.google.api.services.sheets.v4.model.Color
 import com.google.api.services.sheets.v4.model.ColorStyle

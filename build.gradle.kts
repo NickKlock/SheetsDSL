@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.9.23"
 }
 
-group = "xyz.sheetsdsl"
+group = "com.github.nickklock.sheetsdsl"
 version = "1.0.0"
 
 repositories {

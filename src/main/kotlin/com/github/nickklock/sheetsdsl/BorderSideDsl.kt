@@ -1,4 +1,4 @@
-package xyz.sheetsdsl
+package com.github.nickklock.sheetsdsl
 
 enum class BorderSideDsl(private vararg val contains: BorderSideDsl) {
     TOP,

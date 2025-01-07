@@ -1,8 +1,8 @@
-package xyz.sheetsdsl
+package com.github.nickklock.sheetsdsl
 
 import com.google.api.services.sheets.v4.model.Border
 import com.google.api.services.sheets.v4.model.Borders
-import xyz.sheetsdsl.BorderSideDsl.*
+import com.github.nickklock.sheetsdsl.BorderSideDsl.*
 
 @SheetsDslMarker
 data class BorderDsl(

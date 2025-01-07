@@ -1,4 +1,4 @@
-package xyz.sheetsdsl.examples
+package com.github.nickklock.sheetsdsl.examples
 
 import com.google.api.client.auth.oauth2.Credential
 import com.google.api.client.extensions.java6.auth.oauth2.AuthorizationCodeInstalledApp
@@ -14,7 +14,7 @@ import com.google.api.services.sheets.v4.Sheets
 import com.google.api.services.sheets.v4.SheetsScopes.SPREADSHEETS
 import com.google.api.services.sheets.v4.model.Spreadsheet
 import com.google.common.io.Resources
-import xyz.sheetsdsl.SpreadsheetDsl
+import com.github.nickklock.sheetsdsl.SpreadsheetDsl
 import java.awt.Desktop
 import java.io.File
 import java.net.URI

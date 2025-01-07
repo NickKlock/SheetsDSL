@@ -1,11 +1,11 @@
-package xyz.sheetsdsl
+package com.github.nickklock.sheetsdsl
 
 import com.google.api.services.sheets.v4.model.CellData
 import com.google.api.services.sheets.v4.model.CellFormat
 import com.google.api.services.sheets.v4.model.ExtendedValue
 import com.google.api.services.sheets.v4.model.TextRotation
-import xyz.sheetsdsl.BorderSideDsl.*
-import xyz.sheetsdsl.BorderStyleDsl.SOLID
+import com.github.nickklock.sheetsdsl.BorderSideDsl.*
+import com.github.nickklock.sheetsdsl.BorderStyleDsl.SOLID
 import java.awt.Color
 
 

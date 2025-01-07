@@ -1,4 +1,4 @@
-package xyz.sheetsdsl
+package com.github.nickklock.sheetsdsl
 
 enum class VerticalAlignmentDsl {
     TOP, MIDDLE, BOTTOM

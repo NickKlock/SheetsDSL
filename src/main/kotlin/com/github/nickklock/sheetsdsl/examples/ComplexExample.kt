@@ -1,11 +1,15 @@
-package xyz.sheetsdsl.examples
+package com.github.nickklock.sheetsdsl.examples
 
 import xyz.sheetsdsl.*
-import xyz.sheetsdsl.BorderSideDsl.TOP_BOTTOM
-import xyz.sheetsdsl.BorderStyleDsl.DOTTED
-import xyz.sheetsdsl.HorizontalAlignmentDsl.CENTER
-import xyz.sheetsdsl.HorizontalAlignmentDsl.RIGHT
-import xyz.sheetsdsl.VerticalAlignmentDsl.MIDDLE
+import com.github.nickklock.sheetsdsl.BorderSideDsl.TOP_BOTTOM
+import com.github.nickklock.sheetsdsl.BorderStyleDsl.DOTTED
+import com.github.nickklock.sheetsdsl.align
+import com.github.nickklock.sheetsdsl.bg
+import com.github.nickklock.sheetsdsl.rem
+import com.github.nickklock.sheetsdsl.vAlign
+import com.github.nickklock.sheetsdsl.HorizontalAlignmentDsl.CENTER
+import com.github.nickklock.sheetsdsl.HorizontalAlignmentDsl.RIGHT
+import com.github.nickklock.sheetsdsl.VerticalAlignmentDsl.MIDDLE
 import java.awt.Color.*
 
 fun main() {
